@@ -1,0 +1,6 @@
+com\rans\demosite\HibernateUtil.class
+com\rans\demosite\ServletInitializer.class
+com\rans\demosite\CourseDao.class
+com\rans\demosite\CourseModel.class
+com\rans\demosite\DemositeApplication.class
+com\rans\demosite\UserController.class
