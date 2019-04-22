@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Login - NSU 299 Project</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+<center><h1>Form</h1>
+<form action="#" th:action="@{/course}" th:object="${user}" method="post">
+    <p>Course Name: <input type="text" th:field="*{username}" /></p>
+    <p><input type="submit" value="Search" /> <input type="reset" value="Reset" /></p>
+</form></center>
+</body>
+</html>
