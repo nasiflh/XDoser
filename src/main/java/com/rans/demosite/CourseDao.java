@@ -1,5 +1,5 @@
 package com.rans.demosite;
- 
+
 import org.hibernate.Session;
 import org.hibernate.Transaction;
 import org.springframework.stereotype.Repository;
